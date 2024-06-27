@@ -1,0 +1,1 @@
+CXXFLAG= -std=c++11;
